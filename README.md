@@ -1,0 +1,28 @@
+/*config.json*/
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "port": "",
+    "dialect": "",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "demozalo_schema",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
+  }
+}
